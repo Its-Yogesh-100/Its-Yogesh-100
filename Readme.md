@@ -1,5 +1,7 @@
-<meta name="google-site-verification" content="NcQsSwgjnEyA_bALhP0pjlD9dGfV1chHQ4adLqDmEqI" />
 
+<head>
+<meta name="google-site-verification" content="NcQsSwgjnEyA_bALhP0pjlD9dGfV1chHQ4adLqDmEqI" />
+</head>
 
 
 
