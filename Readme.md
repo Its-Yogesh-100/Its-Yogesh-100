@@ -34,8 +34,7 @@ echo "Let's proceed!\n";
 ![Visitor Count](https://profile-counter.glitch.me/{Its-Yogesh-100}/count.svg)
 
 
-<h1 align="center">Hi 👋, I'm YOGESH KAUSHIK</h1>
-<h3 align="center">A passionate frontend developer from India</h3>
+<h1 align="center">Hi 👋,Hi I'm YOGESH KAUSHIK</h1>
 
 <img  align="center" src="https://bestanimations.com/gifs/System-Failure.html" alt="coding">
 
@@ -43,9 +42,11 @@ echo "Let's proceed!\n";
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-yogesh-100" alt="its-yogesh-100" /></a> </p>
 
+- I'm interested in ... C,C++,Python,Augmented Reality,Virtual Reality,Data Analytics
+
 - 🔭 I’m currently working on **Resume Builder**
 
-- 🌱 I’m currently learning **JQuery,Bootstrap,Javascript**
+- 🌱 I’m currently learning **SEO**
 
 - 📫 How to reach me **virus2.0.exe@gmail.com**
 
