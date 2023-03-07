@@ -1,12 +1,18 @@
 
 <head>
-<meta name="google-site-verification" content="NcQsSwgjnEyA_bALhP0pjlD9dGfV1chHQ4adLqDmEqI" />
+ 
+ 
+
 <meta name="viewport" content="width=device-width, initial-scale=1, shrink-to-fit=no">
  
  <meta name="description" content="I am Yogesh Kaushik. I am simple person who loves coding">
- <meta name="keywords" content="Yogesh Kaushik, Software Engineer,Web Developer">
+ <meta name="keywords" content="Yogesh Kaushik, Software Engineer,Web Developer, Its-Yogesh-100">
  
+ <meta name="google-site-verification" content="NcQsSwgjnEyA_bALhP0pjlD9dGfV1chHQ4adLqDmEqI" />
  
+ <meta name="robots" content="index, follow">
+ 
+
 </head>
 
 
