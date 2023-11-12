@@ -71,15 +71,7 @@ Let's build something amazing together! 💻🚀
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=its-yogesh-100" alt="its-yogesh-100" /></a> </p>
 
-- I'm interested in ... C,C++,Python,Augmented Reality,Virtual Reality,Data Analytics
 
-- 🔭 I’m currently working on **Resume Builder**
-
-- 🌱 I’m currently learning **SEO**
-
-- 📫 How to reach me **virus2.0.exe@gmail.com**
-
-- ⚡ Fun fact **I think I am shy**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
