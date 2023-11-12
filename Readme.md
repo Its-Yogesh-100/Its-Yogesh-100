@@ -34,7 +34,36 @@ echo "Let's proceed!\n";
 ![Visitor Count](https://profile-counter.glitch.me/{Its-Yogesh-100}/count.svg)
 
 
-<h1 align="center">Hi 👋,Hi I'm YOGESH KAUSHIK</h1>
+# 👋 Hello, I'm Yogesh Kaushik
+
+## About Me
+- 🎓 Final Year Computer Science Engineering Student at JUET
+- 💻 Passionate about Web Development, Python, Java, and Django
+- 🌐 Experienced in creating dynamic and responsive web applications
+- 🚀 Actively seeking opportunities to contribute to innovative projects
+
+## Skills
+- 🔧 Proficient in Web Development tools and technologies
+- 🐍 Python | ☕ Java | 🌐 Django
+- 🛠️ HTML5, CSS3, JavaScript, Bootstrap
+- 🧑‍💻 Full-stack development with a focus on user-centric design
+
+## Projects
+- 🚀 [Project 1](link-to-project-1): Brief description of the project and its impact.
+- 🌐 [Project 2](link-to-project-2): Highlight key features and technologies used.
+
+## Open Source Contributions
+- 🤝 Actively involved in the GitHub community
+- 🌟 Contributed to [Project A](link-to-project-a) and [Project B](link-to-project-b)
+
+## Connect with Me
+- 📧 Email: your.email@example.com
+- 🔗 LinkedIn: [Yogesh Kaushik](https://www.linkedin.com/in/yourlinkedinusername/)
+- 🌐 Portfolio: [yogeshkaushik.dev](https://www.yogeshkaushik.dev)
+- 🐦 Twitter: [@yourtwitterhandle](https://twitter.com/yourtwitterhandle)
+
+Let's build something amazing together! 💻🚀
+
 
 <img  align="center" src="https://bestanimations.com/gifs/System-Failure.html" alt="coding">
 
